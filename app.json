@@ -2,6 +2,7 @@
   "expo": {
     "name": "market-stocks",
     "slug": "market-stocks",
+    "entryPoint": "./index.tsx",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -25,7 +26,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.i_am__manuel.marketstocks"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
